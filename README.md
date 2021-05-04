@@ -13,3 +13,4 @@ Beschreibung der Programme:
 - ForGame = Spiel von "Abfrage.cc" mit einem FOR LOOP, um es mehrere Mahle hintereinander zu spielen
 - ForSchleifen = Ein simpler FOR LOOP
 - Switch = Alternative zu dem IF STATEMENT
+- Primzahlen = Ein Programm das feststellt ob die Zahl eine Primzahl ist
