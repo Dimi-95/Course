@@ -14,3 +14,8 @@ Beschreibung der Programme:
 - ForSchleifen = Ein simpler FOR LOOP
 - Switch = Alternative zu dem IF STATEMENT
 - Primzahlen = Ein Programm das feststellt ob die Zahl eine Primzahl ist
+
+ -05.05.2021-
+ 
+ - NestedFor = Nested For Loops
+ - ForSchleifeBeispiel = Ein Programm das eine Zahl quadriert, die Iterationen werden vom User bestimmt
