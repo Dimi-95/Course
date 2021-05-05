@@ -18,3 +18,4 @@ Everything I am doing in the C ++ course from Udemy
  
  - NestedFor = Nested For Loops
  - ForSchleifeBeispiel = Ein Programm das eine Zahl quadriert, die Iterationen werden vom User bestimmt
+ - WhileSchleife = Ein While Loop der das Programm immer wieder laufen lässt bis bool == true ist
