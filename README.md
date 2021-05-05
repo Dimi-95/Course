@@ -1,7 +1,6 @@
 # Course
 Everything I am doing in the C ++ course from Udemy
 
-Beschreibung der Programme:
 
  -04.05.2021-
 
