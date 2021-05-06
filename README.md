@@ -29,5 +29,6 @@ C++ Kurs-Index
  
  - Modulo: Modulo Operator selber programmieren**
  - Programmierübung 1: Schleifen, Abfragen und Funktionen: Erste Übung des Kurses ( Erfolgreich gelöst )**
+ - Factorial: Rekursive Funktionen -> Fakultät
  
  
