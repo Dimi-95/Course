@@ -1,5 +1,5 @@
 # Course
-Everything I am doing in the C ++ course from Udemy
+C++ Kurs-Index
 
 
  -04.05.2021-
@@ -28,5 +28,6 @@ Everything I am doing in the C ++ course from Udemy
  -06.05.2021-
  
  - Modulo: Modulo Operator selber programmieren**
+ - Programmierübung 1: Schleifen, Abfragen und Funktionen: Erste Übung des Kurses ( Erfolgreich gelöst )**
  
  
