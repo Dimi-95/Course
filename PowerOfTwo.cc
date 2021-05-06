@@ -8,23 +8,23 @@ bool is_power_of_two(unsigned int number)
 {
     bool is_power = false;
 
-    if(number > 1)
+    while(number > 1)
     {
-        number = number / 2;
 
-        if (number % 2 == 0)
+        if (number % 2 == 1)
         {
-            is_power = true;
+            is_power = false;
+
+            break;
         }
         else
         {
-            is_power = false;
+            number = number / 2;
+
+            is_power = true;
         }
     }
-    else
-    {
-
-    }
+    
 
     return is_power;
 }
