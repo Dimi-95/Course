@@ -24,3 +24,9 @@ Everything I am doing in the C ++ course from Udemy
  - FunktionGame: Ein Programm das eine neu erstellte Funktion nutzt
  - PowerOfTwo: Kalkuliert die eingegeben Nummer um zu sehen ob diese im Quadrat ist**
  - GuessingGame(Ordner): Mehrere Dateien mit einander verknüpfen und dann kompilieren
+
+ -06.05.2021-
+ 
+ - Modulo: Modulo Operator selber programmieren**
+ 
+ 
