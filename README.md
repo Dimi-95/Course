@@ -34,3 +34,5 @@ C++ Kurs-Index
  -07.05.2021-
  
  - Array1: Einfürng in Arrays/ wie man eine Array erstellt und nutzt
+ - MultDimArray: Eine Multidimensionale Array erstellen ( Matrix ) 
+ - CharArray: Eine Array erstellen die den Dateien-Typen CHAR beinhalten
