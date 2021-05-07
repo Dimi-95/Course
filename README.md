@@ -2,7 +2,7 @@
 C++ Kurs-Index
 
 
- -04.05.2021-
+ -03/04.05.2021-
 
 - Example: Rechenoperationen
 - Example2: Berechnet den Umfang und den Flächeninhalt eines Kreises mit dem eingegebenen Durchmesser des Users 
