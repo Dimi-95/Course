@@ -36,3 +36,4 @@ C++ Kurs-Index
  - Array1: Einfürng in Arrays/ wie man eine Array erstellt und nutzt
  - MultDimArray: Eine Multidimensionale Array erstellen ( Matrix ) 
  - CharArray: Eine Array erstellen die den Dateien-Typen CHAR beinhalten
+ - Pointer1: Auf den Stack pointen
