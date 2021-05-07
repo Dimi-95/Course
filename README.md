@@ -33,4 +33,4 @@ C++ Kurs-Index
 
  -07.05.2021-
  
- 
+ - Array1: Einfürng in Arrays/ wie man eine Array erstellt und nutzt
