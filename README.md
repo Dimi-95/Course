@@ -42,3 +42,4 @@ C++ Kurs-Index
  -10.05.2021-
  
  - Pointer3: Den Speicher auf dem Heap leeren
+ - PointerFunctions: Call by Value - Variablen können den gleichen Wert beinhalten aber komplett andere Zeiger ( Pointers ) haben
