@@ -46,3 +46,4 @@ C++ Kurs-Index
  - References: Call by Reference - Man übergibt die Variable selber damit Sie keine Kopie erstellt, dies ist nutzvoll wenn die Variable groß ist/viel Daten gespeichert hat
  - Reference2: Unterschied zwischen Call by Value und Call by Reference
  - PointerArray: Wie man eine Array auf dem Heap allokiert und deallokiert
+ - PassPointerArray: Wie man durch eine Array iteriert 
