@@ -38,3 +38,7 @@ C++ Kurs-Index
  - CharArray: Eine Array erstellen die den Dateien-Typen CHAR beinhalten
  - Pointer1: Auf den Stack pointen
  - Pointer2: Ein pointer der vom Stack auf eine Datei zeigt, die auf dem Heap liegt
+
+ -10.05.2021-
+ 
+ - Pointer3: Den Speicher auf dem Heap leeren
