@@ -44,3 +44,4 @@ C++ Kurs-Index
  - Pointer3: Den Speicher auf dem Heap leeren
  - PointerFunctions: Call by Value - Variablen können den gleichen Wert beinhalten aber komplett andere Zeiger ( Pointers ) haben
  - References: Call by Reference - Man übergibt die Variable selber damit Sie keine Kopie erstellt, dies ist nutzvoll wenn die Variable groß ist/viel Daten gespeichert hat
+ - Reference2: Unterschied zwischen Call by Value und Call by Reference
