@@ -47,3 +47,5 @@ C++ Kurs-Index
  - Reference2: Unterschied zwischen Call by Value und Call by Reference
  - PointerArray: Wie man eine Array auf dem Heap allokiert und deallokiert
  - PassPointerArray: Wie man durch eine Array iteriert 
+
+ -11.05.2021-
