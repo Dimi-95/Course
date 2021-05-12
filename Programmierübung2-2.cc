@@ -13,7 +13,7 @@ int* array_constructor(const int &value, const unsigned int &length)
          array[i] = value;
     }
 
-    return;
+    return array;
 }
 
 
@@ -24,7 +24,10 @@ int main()
 
     int* array = array_constructor(5, 3);
 
-    cout << array;
+    for(int i = 0; i < 3; i++)
+    {
+        cout << array[i] << endl;
+    }
 
     return 0;
 }
