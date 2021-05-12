@@ -51,7 +51,7 @@ C++ Kurs-Index
  -11.05.2021-
  
  - Programmierübrung2-1: Gelößt/Eine Double Pointer Array mit 100 Elementen erstellen deren Wert die Zahlen von 0 bis 99 abspeichert. Eine funktion erstellen    vom Typ double die die Summe von den 2 Argumenten berechnet.
- - Programmierübung2-2: Nicht Gelößt/Schreib eine Funktion die einen Pointer Array vom Typ INT erstellt und zurückgibt.
+ - Programmierübung2-2: Gelößt/Schreib eine Funktion die einen Pointer Array vom Typ INT erstellt und zurückgibt.
 
  -12.05.2021- 
  
