@@ -68,3 +68,4 @@ C++ Kurs-Index
  - Defines: Preprocessor Defines
  - Const: Wann man const und constexrp verwendet
  - Casting: c und c++ casting/ Dateien Typ einer Variable ändern [immer c++ casting ( static_casting ) nutzen]
+ - Programmierübung4: Gelößt/Structs, Namespaces und Overloads
