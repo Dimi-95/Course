@@ -64,3 +64,4 @@ C++ Kurs-Index
  
  - Struct2: Erstellung von Strukturen inklusive eine Funktion die dies aufruft
  - Namespaces: Nutzung von "namespace"
+ - Overload: Überladung von Funktionen/ die Nutzing von Funktionen mit dem gleichen Namen
