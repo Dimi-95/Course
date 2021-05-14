@@ -63,3 +63,4 @@ C++ Kurs-Index
  -14.05.2021-
  
  - Struct2: Erstellung von Strukturen inklusive eine Funktion die dies aufruft
+ - Namespaces: Nutzung von "namespace"
