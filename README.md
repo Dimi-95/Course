@@ -59,3 +59,7 @@ C++ Kurs-Index
  - PreVsPost: Pre vs Post Increment
  - Struct: Strukturen/ Erstellung und Anlegung einer Struktur
  - Enum: Wie Enumeration funktioniert und dies man mit Strukturen und einem Switch verbinden kann
+
+ -14.05.2021-
+ 
+ 
