@@ -66,3 +66,4 @@ C++ Kurs-Index
  - Namespaces: Nutzung von "namespace"
  - Overload: Überladung von Funktionen/ die Nutzing von Funktionen mit dem gleichen Namen
  - Defines: Preprocessor Defines
+ - Const: Wann man const und constexrp verwendet
