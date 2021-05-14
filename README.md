@@ -67,3 +67,4 @@ C++ Kurs-Index
  - Overload: Überladung von Funktionen/ die Nutzing von Funktionen mit dem gleichen Namen
  - Defines: Preprocessor Defines
  - Const: Wann man const und constexrp verwendet
+ - Casting: c und c++ casting/ Dateien Typ einer Variable ändern [immer c++ casting ( static_casting ) nutzen]
