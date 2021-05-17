@@ -72,3 +72,4 @@ C++ Kurs-Index
 
  -17.05.2021-
 
+ - Programmierprojekt1(Ordner): Dynamisches Array erstellen - nutzung von struct
