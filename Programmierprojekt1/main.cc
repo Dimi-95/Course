@@ -2,19 +2,25 @@
 #include <cstddef>
 
 #include "DynArray.h"
+#include "AlgoArray.h"
 
 // int main()
 int main()
 {
 
-   double fill_value = 0.0;
-   std::size_t length = 4;
+   double fill_value = 1.0;
+   std::size_t length = 5;
 
-   DynamicArray my_array = create_dynamic_array(fill_value, 4);
-   for(std::size_t i = 0; i < 4; i++)
+   DynamicArray my_array = create_dynamic_array(fill_value, length);
+   for(std::size_t i = 0; i < length; i++)
    {
-       std::cout << my_array.m_data[i] << std::endl;
+       my_array.m_data[i] = i;
    }
+
+   std::cout << "Mean = " << mean(my_array) << std::endl;
+   std::cout << "Median = " << mean(my_array) << std::endl;
+   std::cout << "Variance = " << variance(my_array) << std::endl;
+   std::cout << "Stddev = " << stddev(my_array) << std::endl;
 
     return 0;
 }
