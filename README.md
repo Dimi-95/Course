@@ -76,4 +76,4 @@ C++ Kurs-Index
 
  -18.05.2021-
  
- Vektoren: Erstellen von Vektoren sowohl auch die Nutzung der Funktionen die dazu kommen
+ Vektoren: Erstellen von Vektoren sowohl auch die Nutzung der Funktionen die dazu kommen ( Container Typ )
