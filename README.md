@@ -86,4 +86,4 @@ C++ Kurs-Index
  - VectorMethods: Mit Methods bekannt machen; .clear .shrink_to_size .resize .empty .capacity
  - VectorMethods2: Iterator (Iterator ist ein Pointer der auf ein bestimmtes Element im Array zeigt)
  - VectorSort: Vector sortierung
- - EraseRemoveIdiom: Bestimme Werte vom Vector löschen
+ - EraseRemoveIdiom: Bestimmte Werte vom Vector löschen
