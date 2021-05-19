@@ -78,3 +78,7 @@ C++ Kurs-Index
  
  - Vektoren: Erstellen von Vektoren sowohl auch die Nutzung der Funktionen die dazu kommen ( Container Typ )
  - MathFunctions: Erstellen von Vektoren und implementierung von Math-functions die diese nutzen 
+
+ -19.05.2021-
+ 
+ 
