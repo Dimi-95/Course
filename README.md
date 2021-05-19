@@ -89,3 +89,4 @@ C++ Kurs-Index
  - EraseRemoveIdiom: Bestimmte Werte vom Vector löschen
  - Typedef: Alias erstellen mit "typedef" und "using"
  - Auto: Der Dateien Typ wird mit "auto" vom compiler selber definiert (Z.B. ( auto a = 2; - a ist ein int ))
+ - MathFunctions2: Beispiel verschiedene Iterations-Arten
