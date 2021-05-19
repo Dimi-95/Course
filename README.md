@@ -83,3 +83,4 @@ C++ Kurs-Index
  
  - MultiDimVector: Erstellung von Multidimensionalen Vectoren, basiert auf dem gleichen Konzept von Multidimensionalen Arrays, da Vectoren in dem Sinne dynmaische Arrays sind
  - VectorSortAndIterate: Unterschied zwischen .size und .capacity. Neuer speicher wird immer allokiert wenn der alte ausgereizt ist
+ - VectorMethods: Mit Methods bekannt machen; .clear .shrink_to_size .resize .empty .capacity
