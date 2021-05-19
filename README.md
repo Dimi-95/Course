@@ -87,3 +87,4 @@ C++ Kurs-Index
  - VectorMethods2: Iterator (Iterator ist ein Pointer der auf ein bestimmtes Element im Array zeigt)
  - VectorSort: Vector sortierung
  - EraseRemoveIdiom: Bestimmte Werte vom Vector löschen
+ - Typedef: Alias erstellen mit "typedef" und "using"
