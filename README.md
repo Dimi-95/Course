@@ -95,3 +95,4 @@ C++ Kurs-Index
  
  - String: Einführung was ein String ist ( std::string ) und was npos ist ( der Wert wenn man den substring nicht finden kann )
  - FileRead: Text Datei lesen und den inhalt in eine string Datei rein kopieren
+ - FileWrite: In die eingelesen Text Datei etwas einschreiben/ersetzen
