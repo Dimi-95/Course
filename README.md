@@ -93,4 +93,4 @@ C++ Kurs-Index
 
  -20.05.2021-
  
- - 
+ - String: Einführung was ein String ist ( std::string ) und was npos ist ( der Wert wenn man den substring nicht finden kann )
