@@ -97,3 +97,5 @@ C++ Kurs-Index
  - FileRead: Text Datei lesen und den inhalt in eine string Datei rein kopieren
  - FileWrite: In die eingelesen Text Datei etwas einschreiben/ersetzen
  - Binary: Binäre und Hexadezimale Werte und wie man diese addieren kann
+
+ -21.05.2021-
