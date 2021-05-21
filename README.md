@@ -102,3 +102,4 @@ C++ Kurs-Index
 - Iterator: Wie man unterschiedliche Iteratoren nutzt
 - Iterator2: Mehr Iteratoren Funktionen
 - Inserter: Einfügung von Daten eins Containers in einem anderen
+- Random: Generiert pseudo-zufällige Zahlen, diese generierung basiert auf einen Seed
