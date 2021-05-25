@@ -103,3 +103,6 @@ C++ Kurs-Index
 - Iterator2: Mehr Iteratoren Funktionen
 - Inserter: Einfügung von Daten eins Containers in einem anderen
 - Random: Generiert pseudo-zufällige Zahlen, diese generierung basiert auf einen Seed
+
+ -25.05.2021-
+ 
