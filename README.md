@@ -112,3 +112,4 @@ C++ Kurs-Index
  -26.05.2021-
  
 - FunktionTemplate: Erstellung eines Templates
+- Matrix(Ordner): Vorbereitung einer Matrix Klasse und Überladung der Operatoren dieser Klasse
