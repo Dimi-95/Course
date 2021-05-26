@@ -111,3 +111,4 @@ C++ Kurs-Index
 
  -26.05.2021-
  
+- FunktionTemplate: Erstellung eines Templates
