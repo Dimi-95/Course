@@ -108,3 +108,6 @@ C++ Kurs-Index
  
 - klassen1(Ordner): Einführung in Konstruktoren und Dekonstruktoren
 - klassen2(Ordner): Initializer List
+
+ -26.05.2021-
+ 
