@@ -117,3 +117,4 @@ C++ Kurs-Index
  -27.05.2021-
  
 - Lambda: Erstellung von Lambda Ausdrücken
+- Lambda2: Nutzung der Capture List in Lambda Ausdrücken
