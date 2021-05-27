@@ -119,4 +119,4 @@ C++ Kurs-Index
 - Lambda: Erstellung von Lambda Ausdrücken
 - Lambda2: Nutzung der Capture List in Lambda Ausdrücken
 - Lambda3: Generic Lambda, Lambda als Objekt angelegt und Nutzung von "auto"
-- MapReduceIdiom: Quadrieren und summieren eines Vectoren
+- MapReduceIdiom: Den Inhalt eines Vectoren quadrieren und summieren 
