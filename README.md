@@ -123,4 +123,4 @@ C++ Kurs-Index
 
  -28.05.2021-
  
-- Unique Pointer: Unique Pointer erstellen
+- Unique Shared Pointer: Unique/Shared Pointer erstellen
