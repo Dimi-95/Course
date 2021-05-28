@@ -122,4 +122,4 @@ C++ Kurs-Index
 - MapReduceIdiom: Den Inhalt eines Vectoren quadrieren und dann summieren 
 
  -28.05.2021-
-- 
+ 
