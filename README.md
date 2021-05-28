@@ -120,3 +120,6 @@ C++ Kurs-Index
 - Lambda2: Nutzung der Capture List in Lambda Ausdrücken
 - Lambda3: Generic Lambda, Lambda als Objekt angelegt und Nutzung von "auto"
 - MapReduceIdiom: Den Inhalt eines Vectoren quadrieren und dann summieren 
+
+ -28.05.2021-
+- 
