@@ -124,3 +124,12 @@ C++ Kurs-Index
  -28.05.2021-
  
 - Unique Shared Pointer: Unique/Shared Pointer erstellen
+
+ -02.06.2021-
+ 
+- Udemy_Course(Ordner): Enthält folgende Ordner: ComputerSpiel, DynArray, EigeneVectorKlasse, TemplateMatrixKlasse ,FinaleMatrixKlasse, 
+   - ComputerSpiel: For statement, while loops, if statement, switch
+   - DynArray: Structs und Methods
+   - EigeneVectorKlasse: Erstellung eines Vectoren
+   - TemplateMatrixKlasse: Eigne Klasse erstellen
+   - FinaleMatrixKlasse: Templates für Klassen hinzufügen
